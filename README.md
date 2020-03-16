@@ -1,4 +1,4 @@
-# Pulse Util Tool
+# Pulse Util Tool For Cannonical Data Model
 
 python script to create required mongodb sink connector properties file.
 
